@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/kost/nasl_emu-ruby.png)](https://travis-ci.org/kost/nasl_emu-ruby)
+[![Coverage Status](https://coveralls.io/repos/kost/nasl_emu-ruby/badge.png?branch=master)](https://coveralls.io/r/kost/nasl_emu-ruby?branch=master)
+
 # NaslEmu
 
 Implementation of NASL specific functions. This is basic implementation of NASL specific functions in order to speed up PoC/exploit development.
